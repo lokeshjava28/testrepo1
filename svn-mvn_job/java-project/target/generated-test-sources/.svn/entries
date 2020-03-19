@@ -1,0 +1,31 @@
+8
+
+dir
+5
+http://192.168.27.144:81/repo12/java-project/target/generated-test-sources
+http://192.168.27.144:81/repo12
+
+
+
+2019-10-29T23:15:27.897407Z
+3
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1c5b5764-fa8c-11e9-8a47-dd63f4c9c264
+
+test-annotations
+dir
+

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="com.mkyong.hashing.AppTest" time="0.054" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="mvn-github"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/root/.jenkins"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="HUDSON_SERVER_COOKIE" value="4d354b692f8959c5"/>
+    <property name="POM_ARTIFACTID" value="java-project"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_221\lib\resources.jar;C:\Program Files\Java\jre1.8.0_221\lib\rt.jar;C:\Program Files\Java\jre1.8.0_221\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_221\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_221\lib\jce.jar;C:\Program Files\Java\jre1.8.0_221\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_221\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_221\classes"/>
+    <property name="EXECUTOR_NUMBER" value="3"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="java-project"/>
+    <property name="NODE_LABELS" value="Windows Node dev-label"/>
+    <property name="TEMP" value="C:\Users\amarnath\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_221-b11"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="user.name" value="amarnath"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="mvn-github"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://192.168.27.136:8080/jenkins/job/mvn-github/43/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#43"/>
+    <property name="OneDrive" value="C:\Users\amarnath\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_221\bin"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="9207e0f4fda129335d2a04432c837fb17193ae81"/>
+    <property name="LOCALAPPDATA" value="C:\Users\amarnath\AppData\Local"/>
+    <property name="java.version" value="1.8.0_221"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="USERNAME" value="amarnath"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="Windows Node"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_221\lib\endorsed"/>
+    <property name="BUILD_ID" value="43"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="maven.conf" value="C:\Devops\Windows-Node\jenkins-home\tools\hudson.tasks.Maven_MavenInstallation\maven_3.5.0\conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="IN"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_221\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.0"/>
+    <property name="RUN_DISPLAY_URL" value="http://192.168.27.136:8080/jenkins/job/mvn-github/43/display/redirect"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="configsetroot" value="C:\WINDOWS\ConfigSetRoot"/>
+    <property name="TMP" value="C:\Users\amarnath\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.221-b11"/>
+    <property name="user.variant" value=""/>
+    <property name="GIT_PREVIOUS_COMMIT" value="9207e0f4fda129335d2a04432c837fb17193ae81"/>
+    <property name="JOB_DISPLAY_URL" value="http://192.168.27.136:8080/jenkins/job/mvn-github/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-TA03GIKT"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_221"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="HOMEPATH" value="\Users\amarnath"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="LAPTOP-TA03GIKT"/>
+    <property name="POM_GROUPID" value="com.mkyong.hashing"/>
+    <property name="user.home" value="C:\Users\amarnath"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-mvn-github-43"/>
+    <property name="JENKINS_SERVER_COOKIE" value="4d354b692f8959c5"/>
+    <property name="HUDSON_URL" value="http://192.168.27.136:8080/jenkins/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\amarnath"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Devops\Windows-Node\jenkins-home\tools\hudson.tasks.Maven_MavenInstallation\maven_3.5.0/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Universal Extractor;C:\Program Files (x86)\Universal Extractor\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\Users\amarnath\AppData\Local\Microsoft\WindowsApps;C:\Users\amarnath\AppData\Local\GitHubDesktop\bin;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\amarnath\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Devops\Windows-Node\jenkins-home\tools\hudson.tasks.Maven_MavenInstallation\maven_3.5.0"/>
+    <property name="java.class.path" value="C:\Devops\Windows-Node\jenkins-home\maven35-agent.jar;C:\Devops\Windows-Node\jenkins-home\tools\hudson.tasks.Maven_MavenInstallation\maven_3.5.0\boot\plexus-classworlds-2.5.2.jar;C:\Devops\Windows-Node\jenkins-home\tools\hudson.tasks.Maven_MavenInstallation\maven_3.5.0/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Devops\Windows-Node\jenkins-home\tools\hudson.tasks.Maven_MavenInstallation\maven_3.5.0 C:\Users\amarnath\Downloads\agent.jar C:\Devops\Windows-Node\jenkins-home\maven35-interceptor.jar C:\Devops\Windows-Node\jenkins-home\maven3-interceptor-commons.jar 61802"/>
+    <property name="Path" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Universal Extractor;C:\Program Files (x86)\Universal Extractor\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\Users\amarnath\AppData\Local\Microsoft\WindowsApps;C:\Users\amarnath\AppData\Local\GitHubDesktop\bin"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 78 Stepping 3, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\Devops\Windows-Node\jenkins-home\tools\hudson.tasks.Maven_MavenInstallation\maven_3.5.0"/>
+    <property name="java.io.tmpdir" value="C:\Users\amarnath\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="/root/.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Devops\Windows-Node\jenkins-home\tools\hudson.tasks.Maven_MavenInstallation\maven_3.5.0/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://192.168.27.136:8080/jenkins/job/mvn-github/43/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_221\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\Devops\Github\repo2\java-project"/>
+    <property name="JOB_URL" value="http://192.168.27.136:8080/jenkins/job/mvn-github/"/>
+    <property name="LOGONSERVER" value="\\LAPTOP-TA03GIKT"/>
+    <property name="USERDOMAIN" value="LAPTOP-TA03GIKT"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="C:\Devops\Windows-Node\jenkins-home\tools\hudson.tasks.Maven_MavenInstallation\maven_3.5.0"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="43"/>
+    <property name="JENKINS_URL" value="http://192.168.27.136:8080/jenkins/"/>
+    <property name="PROCESSOR_REVISION" value="4e03"/>
+    <property name="GIT_BRANCH" value="origin/master"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="GIT_COMMIT" value="495e416d62c92ce8ad6489e9a67c088743b889ef"/>
+    <property name="=C:" value="C:\Users\amarnath\Downloads"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Devops\Windows-Node\jenkins-home\maven35-interceptor.jar"/>
+    <property name="WORKSPACE" value="C:\Devops\Windows-Node\jenkins-home\workspace\mvn-github"/>
+    <property name="maven3.interceptor.common" value="C:\Devops\Windows-Node\jenkins-home\maven3-interceptor-commons.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="GIT_URL" value="https://github.com/lokeshjava28/repo2.git"/>
+  </properties>
+  <testcase classname="com.mkyong.hashing.AppTest" name="testHex" time="0.054"/>
+  <testcase classname="com.mkyong.hashing.AppTest" name="testLength" time="0"/>
+</testsuite>

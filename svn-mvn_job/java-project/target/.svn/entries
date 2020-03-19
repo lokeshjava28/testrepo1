@@ -1,0 +1,75 @@
+8
+
+dir
+5
+http://192.168.27.144:81/repo12/java-project/target
+http://192.168.27.144:81/repo12
+
+
+
+2019-10-29T23:15:27.897407Z
+3
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1c5b5764-fa8c-11e9-8a47-dd63f4c9c264
+
+classes
+dir
+
+generated-sources
+dir
+
+generated-test-sources
+dir
+
+java-project-1.0-SNAPSHOT.jar
+file
+
+
+
+
+2020-02-05T20:46:59.756000Z
+b3fb83eeb7f3ef23b4a0e77367ffac09
+2019-10-29T23:15:27.897407Z
+3
+
+has-props
+
+maven-archiver
+dir
+
+maven-status
+dir
+
+original-java-project-1.0-SNAPSHOT.jar
+file
+
+
+
+
+2020-02-05T20:46:59.767000Z
+8f1cc907f0a27e868a18768752b7323f
+2019-10-29T23:15:27.897407Z
+3
+
+has-props
+
+surefire-reports
+dir
+
+test-classes
+dir
+

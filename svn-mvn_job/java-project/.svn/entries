@@ -1,0 +1,73 @@
+8
+
+dir
+5
+http://192.168.27.144:81/repo12/java-project
+http://192.168.27.144:81/repo12
+
+
+
+2019-10-29T23:36:42.616440Z
+5
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1c5b5764-fa8c-11e9-8a47-dd63f4c9c264
+
+README.md
+file
+
+
+
+
+2020-02-05T20:46:59.835000Z
+bf675fbbb8b09cb0877c43d18442e11d
+2019-10-29T23:15:27.897407Z
+3
+
+has-props
+
+dependency-reduced-pom.xml
+file
+
+
+
+
+2020-02-05T20:46:59.846000Z
+7686b24aaf820904e0065a9babe10d55
+2019-10-29T23:15:27.897407Z
+3
+
+has-props
+
+pom.xml
+file
+
+
+
+
+2020-02-05T20:46:59.858000Z
+e4b19fe1fd080856c6984c50eb1f5870
+2019-10-29T23:15:27.897407Z
+3
+
+has-props
+
+src
+dir
+
+target
+dir
+

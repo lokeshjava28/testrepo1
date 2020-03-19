@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repo12/!svn/ver/3/java-project/target/surefire-reports
+END
+com.mkyong.hashing.AppTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo12/!svn/ver/3/java-project/target/surefire-reports/com.mkyong.hashing.AppTest.txt
+END
+TEST-com.mkyong.hashing.AppTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo12/!svn/ver/3/java-project/target/surefire-reports/TEST-com.mkyong.hashing.AppTest.xml
+END
